@@ -1,0 +1,23 @@
+/* *{
+    border: 1px solid red !important;
+} */
+
+.textAlignCenter{
+    text-align: center;
+}
+
+.marginTopOne{
+    margin-top: 1px;
+}
+
+.marginTopThree{
+    margin-top: 13px !important;
+}
+
+.alignItemCenter{
+    justify-content: center !important;
+}
+.FClogo { max-width: 190px; }
+
+.btn.btnMedium { font-size: 12px; padding: 10px 18px; margin: 0 15px 0 0 !important;}
+.instructionsS li {padding:1px 0; border-bottom:1px solid rgba(0,0,0,.1)}
